@@ -27,8 +27,8 @@
   "preview/safari-pinned-tab.svg": "/preview/safari-pinned-tab.svg",
   "preview/site.webmanifest": "/preview/site.webmanifest",
   "robots.txt": "/robots.txt",
-  "favicon.ico": "/favicon.ico",
   "status.html": "/status.html",
+  "favicon.ico": "/favicon.ico",
   "preview/mstile-150x150.png": "/preview/mstile-150x150.png",
   "preview/android-chrome-192x192.png": "/preview/android-chrome-192x192.png",
   "preview/apple-touch-icon.png": "/preview/apple-touch-icon.png",
@@ -36,7 +36,7 @@
   "files/sponsorship_information_2019.pdf": "/files/sponsorship_information_2019.pdf",
   "preview/banner_square_cropped.jpg": "/preview/banner_square_cropped.jpg",
   "preview/banner cropped.jpg": "/preview/banner cropped.jpg",
-  "preview/banner_square.jpg": "/preview/banner_square.jpg",
   "preview/banner.jpg": "/preview/banner.jpg",
+  "preview/banner_square.jpg": "/preview/banner_square.jpg",
   "../stats.json": "/../stats.json"
 }
